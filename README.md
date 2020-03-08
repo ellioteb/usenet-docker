@@ -2,16 +2,23 @@
 
 ## Containers
 * [jwilder/nginx-proxy](https://github.com/jwilder/nginx-proxy) - Nginx Proxy
+* [linuxserver/plex](https://github.com/linuxserver/docker-plex) - Plex
+* [linuxserver/plexpy](https://github.com/linuxserver/docker-tautulli) - Plexpy(Tautulli)
+* [linuxserver/ombi](https://github.com/linuxserver/docker-ombi) - Ombi
+* [causefx/Organizr](https://github.com/causefx/Organizr) - Organizr
+
+
+* [linuxserver/nzbget](https://github.com/linuxserver/docker-nzbget) - NZBGet
+* [linuxserver/sonarr](https://github.com/linuxserver/docker-sonarr) - Sonarr
+* [linuxserver/radarr](https://github.com/linuxserver/docker-radarr) - Radarr
+* [linuxserver/bazarr](https://github.com/linuxserver/docker-bazarr) - Bazarr
+* [linuxserver/hydra2](https://github.com/linuxserver/docker-nzbhydra2) - NZBHydra2
+* [linuxserver/jackett](https://github.com/linuxserver/docker-jackett) - Jackett
+
+* [linuxserver/muximux](https://github.com/linuxserver/docker-muximux) - Muximux
+
 * [linuxserver/sabnzbd](https://github.com/linuxserver/docker-sabnzbd) - SABnzbd
 * [linuxserver/couchpotato](https://github.com/linuxserver/docker-couchpotato) - CouchPotato
-* [linuxserver/plex](https://github.com/linuxserver/docker-plex) - Plex
-* [linuxserver/sonarr](https://github.com/linuxserver/docker-sonarr) - Sonarr
-* [linuxserver/plexpy](https://github.com/linuxserver/docker-plexpy) - Plexpy
-* [linuxserver/hydra](https://github.com/linuxserver/docker-hydra) - NZBHydra
-* [linuxserver/muximux](https://github.com/linuxserver/docker-muximux) - Muximux
-* [linuxserver/radarr](https://github.com/linuxserver/docker-radarr) - Radarr
-* [linuxserver/ombi](https://github.com/linuxserver/docker-ombi) - Ombi
-* [linuxserver/nzbget](https://github.com/linuxserver/docker-nzbget) - NZBGet
 
 ## Docker Setup
 1. Update `./uidgid.env` with the user and group IDs that will be running Docker
