@@ -3,7 +3,7 @@
 ## Containers
 * [jwilder/nginx-proxy](https://github.com/jwilder/nginx-proxy) - Nginx Proxy
 * [linuxserver/plex](https://github.com/linuxserver/docker-plex) - Plex
-* [linuxserver/plexpy](https://github.com/linuxserver/docker-tautulli) - Plexpy(Tautulli)
+* [linuxserver/tautulli](https://github.com/linuxserver/docker-tautulli) - Plexpy(Tautulli)
 * [linuxserver/ombi](https://github.com/linuxserver/docker-ombi) - Ombi
 * [causefx/Organizr](https://github.com/causefx/Organizr) - Organizr
 
